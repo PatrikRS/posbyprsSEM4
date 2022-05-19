@@ -1,0 +1,2 @@
+Total amount paid since program start: 200.0
+Total amount paid since program start: 400.0
